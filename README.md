@@ -2,11 +2,8 @@
 
 A tiny LSPosed/Vector module that fixes chat bubbles on (some) HyperOS devices
 showing the contact photo as a **small picture inside a white circle** instead of
-filling the whole bubble.
-
-| Before | After |
-|---|---|
-| ![before](docs/before.png) | ![after](docs/after.png) |
+filling the whole bubble. The photo ends up full-bleed in the bubble, the way it
+does on stock Android.
 
 ---
 
