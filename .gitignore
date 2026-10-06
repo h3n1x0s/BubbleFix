@@ -1,0 +1,5 @@
+out/
+dexout/
+*.class
+unsigned.apk
+compiled_res.zip
