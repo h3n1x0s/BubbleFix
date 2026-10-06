@@ -16,7 +16,7 @@
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="Fixes SystemUI chat bubble avatar scaling (badge 24dp-&gt;60dp, overflow inset 30dp-&gt;0dp)" />
+            android:value="Full-bleed chat bubble avatars: stops SystemUI wrapping contact photos in a white background (wrapNonAdaptiveIcon=false)" />
         <meta-data
             android:name="xposedminversion"
             android:value="93" />
